@@ -59,3 +59,23 @@ Solution Implemented:
 2) Also implemented other functionality in the app like Rewards, Tracking timers, Reminder functionality etc.
 
 ######################################################
+
+Project 3:
+Name: Consumer Banking SC
+
+Type: Proprietary Software (Not accessible)
+
+Impact: High
+
+Problem solved: 
+Java based plugins and input processing for applications using my Python Input Whitelisting module.
+
+Challenge: 
+1) Detect special characters, erroneous data and malicious input in input data from consumer and santize them by whitelisting.
+2) Secure logging of data via frameworks like Log4j.
+3) Alert risk management systems
+
+Solution Implemented:
+1) Implemented checking mechanish for text fields, uploaded files, data from machine to machine communication and partner systems.
+
+######################################################
