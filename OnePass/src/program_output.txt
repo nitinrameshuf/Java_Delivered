@@ -1,0 +1,154 @@
+Output
+
+Task Name: VersionBomComputationCheckJob
+The minimum execution time: 2.0 millis 
+The maximum execution time: 100.0 millis
+The average execution time: 5.2232614 millis.
+The standard deviation is: 6.003475454209576
+
+Task Name: KbUpdateWorkflowJob-NVD Vulnerability Update
+The minimum execution time: 120.0 millis 
+The maximum execution time: 151.0 millis
+The average execution time: 131.44444 millis.
+The standard deviation is: 10.429658605414096
+
+Task Name: HierarchicalVersionBomCheckJob
+The minimum execution time: 0.0 millis 
+The maximum execution time: 137.0 millis
+The average execution time: 8.832524 millis.
+The standard deviation is: 21.423396417526796
+
+Task Name: JobHistoryStatsJob-Prune Job History
+The minimum execution time: 120.0 millis 
+The maximum execution time: 120.0 millis
+The average execution time: 120.0 millis.
+The standard deviation is: NaN
+
+Task Name: VersionBomNotificationCheckJob
+The minimum execution time: 19.0 millis 
+The maximum execution time: 157.0 millis
+The average execution time: 33.723717 millis.
+The standard deviation is: 22.24604745111512
+
+Task Name: JobHistoryStatsJob-Calculate Five Minute Statistics
+The minimum execution time: 87.0 millis 
+The maximum execution time: 251.0 millis
+The average execution time: 136.80487 millis.
+The standard deviation is: 36.73228806279463
+
+Task Name: BomVulnerabilityDataRecomputationCheckJob
+The minimum execution time: 32.0 millis 
+The maximum execution time: 103.0 millis
+The average execution time: 44.7 millis.
+The standard deviation is: 17.20495651155367
+
+Task Name: LicenseTermDataPopulatorJob
+The minimum execution time: 4304.0 millis 
+The maximum execution time: 4342.0 millis
+The average execution time: 4323.0 millis.
+The standard deviation is: 26.870057685088806
+
+Task Name: ReportPurgeJob
+The minimum execution time: 107.0 millis 
+The maximum execution time: 107.0 millis
+The average execution time: 107.0 millis.
+The standard deviation is: NaN
+
+Task Name: KbUpdateWorkflowJob-Summary
+The minimum execution time: 1.0 millis 
+The maximum execution time: 2.0 millis
+The average execution time: 1.1111112 millis.
+The standard deviation is: 0.3333333233992257
+
+Task Name: KbUpdateWorkflowJob-Component Version Update
+The minimum execution time: 1188.0 millis 
+The maximum execution time: 1900.0 millis
+The average execution time: 1598.1111 millis.
+The standard deviation is: 280.8440125318679
+
+Task Name: WatchdogJob
+The minimum execution time: 41.0 millis 
+The maximum execution time: 65.0 millis
+The average execution time: 49.583332 millis.
+The standard deviation is: 6.049912746840632
+
+Task Name: BomAggregatePurgeOrphansCheckJob
+The minimum execution time: 3.0 millis 
+The maximum execution time: 144.0 millis
+The average execution time: 49.525 millis.
+The standard deviation is: 42.916728452372595
+
+Task Name: QuartzVersionBomEventCleanupJob
+The minimum execution time: 4.0 millis 
+The maximum execution time: 21.0 millis
+The average execution time: 9.25 millis.
+The standard deviation is: 7.932002769681338
+
+Task Name: ScanStatisticPurgeJob
+The minimum execution time: 10.0 millis 
+The maximum execution time: 10.0 millis
+The average execution time: 10.0 millis.
+The standard deviation is: NaN
+
+Task Name: KbUpdateWorkflowJob-License Update
+The minimum execution time: 108.0 millis 
+The maximum execution time: 150.0 millis
+The average execution time: 122.888885 millis.
+The standard deviation is: 13.22350613498376
+
+Task Name: JobHistoryStatsJob-Calculate Hourly Statistics
+The minimum execution time: 148.0 millis 
+The maximum execution time: 159.0 millis
+The average execution time: 154.66667 millis.
+The standard deviation is: 5.8594638665136
+
+Task Name: KbUpdateCheckJob
+The minimum execution time: 9.0 millis 
+The maximum execution time: 77.0 millis
+The average execution time: 23.88889 millis.
+The standard deviation is: 25.01221869375796
+
+Task Name: KbUpdateWorkflowJob-Component Update
+The minimum execution time: 2332.0 millis 
+The maximum execution time: 33300.0 millis
+The average execution time: 7569.5557 millis.
+The standard deviation is: 9913.634651327433
+
+Task Name: SearchDashboardRefreshJob
+The minimum execution time: 2869.0 millis 
+The maximum execution time: 3789.0 millis
+The average execution time: 3196.2942 millis.
+The standard deviation is: 343.84528224915346
+
+Task Name: ScanPurgeJob
+The minimum execution time: 2038.0 millis 
+The maximum execution time: 2178.0 millis
+The average execution time: 2114.6428 millis.
+The standard deviation is: 35.43273570817846
+
+Task Name: SearchDashboardRefreshCheckJob
+The minimum execution time: 11.0 millis 
+The maximum execution time: 48.0 millis
+The average execution time: 15.45 millis.
+The standard deviation is: 6.076224611029586
+
+Task Name: LicenseDashboardRefreshJob
+The minimum execution time: 176.0 millis 
+The maximum execution time: 401.0 millis
+The average execution time: 211.7317 millis.
+The standard deviation is: 45.51265331013042
+
+Task Name: LicenseTermFulfillmentCheckJob
+The minimum execution time: 2.0 millis 
+The maximum execution time: 113.0 millis
+The average execution time: 10.193627 millis.
+The standard deviation is: 16.888543465634477
+
+Task Name: KbUpdateWorkflowJob-BDSA Vulnerabilty Update
+The minimum execution time: 91.0 millis 
+The maximum execution time: 112.0 millis
+The average execution time: 100.666664 millis.
+The standard deviation is: 6.499999413123471
+
+
+Process finished with exit code 0
