@@ -79,3 +79,8 @@ Solution Implemented:
 1) Implemented checking mechanish for text fields, uploaded files, data from machine to machine communication and partner systems.
 
 ######################################################
+
+Other Java Experience:
+
+1) 6+ years experience in SAST source code review of Java based source code for security vulnerabilities. 
+2) Utilized multiple CI/CD security tools like Blackduck SCA, SAST tools like Checkmarx, Fortify, Appscan source etc.
