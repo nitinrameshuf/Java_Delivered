@@ -41,25 +41,6 @@ Solution Implemented:
 
 ######################################################
 
-Project 2:
-Name: GoAlchoholGo App
-
-Research Paper: https://github.com/nitinrameshuf/Research-Papers/blob/main/Alcohol_Behavior_Mod_Paper.pdf
-
-Impact: Medium
-
-Problem solved: 
-Java based solution to detect sobriety via on-board sensors.
-
-Challenge: 
-1) Establishing thresholds using sensor data in Java and detecting patterns in future movement.
-
-Solution Implemented:
-1) Monitored long term sensor data reading and checked aggregated threshhold values to determine sobriety levels.
-2) Also implemented other functionality in the app like Rewards, Tracking timers, Reminder functionality etc.
-
-######################################################
-
 Project 3:
 Name: Consumer Banking SC
 
